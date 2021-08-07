@@ -10,3 +10,5 @@ function cal(a,b,res)
     return a/b;}
 else{return 'Not find'}
 }
+
+//please add function call
